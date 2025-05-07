@@ -417,7 +417,9 @@
             "Aufrichtigkeit",
             "Zweifel",
             "Gewissheit",
-            "Verantwortung"
+            "Verantwortung",
+            "Gelassenheit",
+            "Verzückung",
         ],
         "title": "Gefühle & Emotionen"
     },
@@ -522,7 +524,8 @@
             "Hundeschlittenfahren",
             "Bergsteigen",
             "Geocaching",
-            "Orientierungslauf"
+            "Orientierungslauf",
+            "Drachensteigen",
         ],
         "title": "Sport & Aktivitäten"
     },
@@ -626,7 +629,9 @@
             "Megastruktur",
             "Dyson-Sphäre",
             "O'Neill-Zylinder",
-            "Weltraumlift"
+            "Weltraumlift",
+            "Antigravitationsgerät",
+            "Weltraumkolonie",
         ],
         "title": "Science-Fiction & Zukunft"
     },
@@ -835,7 +840,10 @@
             "Heilerinnen-Hütte",
             "Schicksalsturm",
             "Prophezeiungs-Höhle",
-            "Wahrsagerzelt"
+            "Wahrsagerzelt",
+            "Verwunschenes Schloss",
+            "Drachennest",
+            "Schatzgräberbucht",
         ],
         "title": "Fantasiewelten & Szenarien"
     }
